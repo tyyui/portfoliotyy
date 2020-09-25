@@ -1,0 +1,23 @@
+.navbar-brand {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: white;
+}
+
+body {
+    background-image:url("https://wallpapercave.com/wp/wp4591608.jpg") ;
+    background-size: cover;
+    background-attachment: fixed; 
+    opacity: ;   
+}
+p {
+    color: white;
+    font-size: large;
+
+}
+.firstHead {
+    color: white;
+}
+.form-group {
+    color: white;
+}
